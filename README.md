@@ -107,5 +107,5 @@ Imóveis foram agrupados por região (**zipcode**) e foi calculada a mediana do 
 O prsente projeto em ciência de dados foi capaz de solucionar problemas de negócio e gerar insights capazes de otmizar o lucro da empresa. Entretanto, o prejeto ainda pode ser melhorado através de técnicas robustas e precisar em resolver o problema de negócio. Os próximos passos são:
 
 - Observar o tipo de distribuição dos dados para saber se é necessário realizar alguma transformação (e.g., log), seguido de análises de relações dos atributos, como modelos lineares ou correlações.
-- Utiliar testes de média como intuito de validar as hipóteses. Testes paramétricos (Anova) e não paramétricos (Kruskal-Wallis) podem ser aplicados nesse caso.
+- Utilizar testes de média como intuito de validar as hipóteses. Testes paramétricos (Anova) e não paramétricos (Kruskal-Wallis) podem ser aplicados nesse caso.
 - Direcionar a venda dos imóveis conforme o interesse dos clientes, conforme os atributos dos imóveis.
