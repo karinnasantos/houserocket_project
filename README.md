@@ -77,18 +77,26 @@ Os dados para este projeto podem ser encontrados em: https://www.kaggle.com/harl
 
 * Heroku
 
-# 6. Insights e análise das hipóteses de negócio
-Hipóteses
-----------  ----------  -----------------------------------------------------------
+# 6. Insights e análise das hipóteses (H) de negócio
+
 H1 -         Verdadeira | Imóveis com vista para água são mais caros
+
 H2 -         Falsa      | Imóveis com data de construção não afeta o preço
+
 H3 -         Verdadeira | Imóveis sem porão possuem maior área total e são mais caros
+
 H4 -         Verdadeira | Imóveis sem reforma são mais baratos
+
 H5 -         Falsa      | Imóveis com más condições e com vista ruim são mais caros
+
 H6 -         Verdadeira | Imóveis com menos andares são mais baratos
+
 H7 -         Verdadeira | Imóveis que não foram reformados são mais baratos
+
 H8 -         Verdadeira | Imóveis com melhores vistas são mais caroa
+
 H9 -         Falsa      | Os imóveis  com menos de três quartos não são mais baratos
+
 H10-         Verdadeira | Imóveis com mais de três quartos tem área total maior
 
 # 7. Conclusão
