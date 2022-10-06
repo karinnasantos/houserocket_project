@@ -11,7 +11,7 @@ Este é um projeto fictício. A empresa, o contexto e as perguntas de negócios 
 
 
 # 1. Descrição 
-A *House Rocket* é uma empresa fictícia que utiliza a tecnologia para tomar decisões de compra e venda de imóveis. Este projeto de Ciência de Dados tem como objetivo encontrar as melhores oportunidades de negócio para maximizar o faturamento da empresa. A melhor estratégia é a compra de casas em ótimas condições por baixos preços e a venda desses imóveis por um preço superior. Neses projeto o cientista de dados deve obter insights através da manipulação de dados para auxiliar as melhores decisões da equipe de negócios. As questões a serem respondidas são:
+A *House Rocket* é uma empresa fictícia que utiliza a tecnologia para tomar decisões de compra e venda de imóveis. Este projeto de Ciência de Dados tem como objetivo encontrar as melhores oportunidades de negócio para maximizar o faturamento da empresa. A melhor estratégia é a compra de casas em ótimas condições por baixos preços e a venda desses imóveis por um preço superior. Nesse projeto o cientista de dados deve obter insights através da manipulação de dados para auxiliar as melhores decisões da equipe de negócios. As questões a serem respondidas são:
 
 **1**. Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?
 
