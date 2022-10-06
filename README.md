@@ -104,8 +104,8 @@ H10-         Verdadeira | Imóveis com mais de três quartos tem área total mai
 Imóveis foram agrupados por região (**zipcode**) e foi calculada a mediana do preço dos imóveis. Um total de 151 impoveis apresentaram o preço abaixo da mediana e foram sugeridos para a compra. Além disso, atributos como localidade e estação do ano foram importantes para a grupar os imóveis e as melhores condições para executar o negócio. Assim, o momento ideal para vender os 151 imóveis é durante a primavera, onde os preços são mais altos.
 
 # 8. Próximos passos
-O prsente projeto em ciência de dados foi capaz de solucionar problemas de negócio e gerar insights capazes de otmizar o lucro da empresa. Entretanto, o prejeto ainda pode ser melhorado através de técnicas robustas e precisar em resolver o problema de negócio. Os próximos passos são:
+O presente projeto em ciência de dados foi capaz de solucionar problemas de negócio e gerar insights capazes de otmizar o lucro da empresa. Entretanto, o prejeto ainda pode ser melhorado através de técnicas robustas e precisas em resolver o problema de negócio. Os próximos passos são:
 
 - Observar o tipo de distribuição dos dados para saber se é necessário realizar alguma transformação (e.g., log), seguido de análises de relações dos atributos, como modelos lineares ou correlações.
-- Utilizar testes de média como intuito de validar as hipóteses. Testes paramétricos (Anova) e não paramétricos (Kruskal-Wallis) podem ser aplicados nesse caso.
+- Utilizar testes de média como intuito de validar as hipóteses. Testes paramétricos (e.g., Anova) e não paramétricos (e.g., Kruskal-Wallis) podem ser aplicados nesse caso.
 - Direcionar a venda dos imóveis conforme o interesse dos clientes, conforme os atributos dos imóveis.
